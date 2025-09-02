@@ -1,4 +1,4 @@
-# Power BI Dashboard – Sales Analysis  
+# Power BI Dashboard  
 
 This repository contains my Power BI dashboard published on Power BI Service.  
 
